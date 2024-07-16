@@ -31,8 +31,7 @@ for _ in range(100):
     for i in range(9):
         nove_digitos_rand += str(random.randint(0, 9))
     
-
-
+    
     # cpf_sem_digito = '451452808'.replace('.', '').replace('-', '')
     # cpf = '451.452.808-07'.replace('.', '').replace('-', '')
     nove_digitos = nove_digitos_rand[:9]
