@@ -21,7 +21,7 @@ def criar_multiplicacao(multiplicador):
     return multiplicar
 
 duplicar = (criar_multiplicacao(2))
-triplicar = (criar_multiplicacao(3))
+triplicar = (criar_multiplicacao(3)) 
 quadruplicar = (criar_multiplicacao(4))
 
 print(duplicar(2))
